@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+    font-variant: small-caps;
+    background-color:rgb(194, 194, 194)
+}
+header{
+    background:linear-gradient( to right, #a79f9c);
+    color:black;
+    text-align:center;
+    padding:50px 26px;
+    font-size:x-large;
+    
+}
+
+H4{
+    color:#020202;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:300;
+    font-size:medium;
+    
+}
+
