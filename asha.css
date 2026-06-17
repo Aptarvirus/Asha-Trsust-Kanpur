@@ -48,6 +48,10 @@ main{
 
     border-radius:12px
 }
+footer {
+  text-align: center;
+  margin: 42px 0;
+}
 @font-face {
   font-family: 'Phantom Sans';
   src:
