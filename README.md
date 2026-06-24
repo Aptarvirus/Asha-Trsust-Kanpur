@@ -6,7 +6,7 @@
 ### It is website for the <a href =""> Ashat Trust Kanpur.
 </a>
 
-# 🚀 Features 
+#  Features 
 ## Contact form:
 ### contact form provided.
 Contact form is powered by web3 forms. 
@@ -16,7 +16,7 @@ Contact form is powered by web3 forms.
   ### CSS3:
   Custom styling using a flexbox layout and rounded containers.
 
-  ## 📂 Project Structure
+  ##  Project Structure
 The project consists of three core files:
 
  ### index.html: 
