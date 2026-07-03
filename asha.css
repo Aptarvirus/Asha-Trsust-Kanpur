@@ -7,11 +7,11 @@ body {
 }
 
 header {
-    background: liner-gradient(to right, #412317, #e61313);
+    background: linear-gradient(to right, #412317, #e61313);
     color: black;
     text-align: center;
     padding: 60px 20px;
-    font-size:xx-large
+    font-size: xx-large;
 }
 h2{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -28,7 +28,7 @@ nav{
     display:flex;
     justify-content: center;
     gap:20px;
-    margin-top:20px
+    margin-top: 20px;
 }
 nav a {
     text-decoration:none;
@@ -46,7 +46,7 @@ main{
     padding:2rem;
     background: #efbfbf;
 
-    border-radius:12px
+    border-radius: 12px;
 }
 footer {
   text-align: center;
