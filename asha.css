@@ -2,12 +2,12 @@ body {
     margin: 0;
     font-size: medium;
     background-color: #ffffff;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
 header {
-    background: linear-gradient(to right, #412317, #e61313);
+    background: white;
     color: black;
     text-align: center;
     padding: 60px 20px;
