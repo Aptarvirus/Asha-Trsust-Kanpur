@@ -1,6 +1,6 @@
 
 # Asha TrsustKanpur
-### Asha Trust Kanpur is NGO, running for the children of migrant workers in india.
+ simple and basic website using HTML and CSS 
 
 # Website
 ### It is website for the <a href =""> Ashat Trust Kanpur.
